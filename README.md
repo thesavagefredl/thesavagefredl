@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @thesavagefredl
 - 👀 I’m interested in web development and information systems
-- 🌱 I’m currently looking for an internship in software development
+- 🌱 I’m currently looking for an internship in Software Development or Data Analytics
 - 💞️ I’m looking to collaborate on any interesting or something that will change the lives of a lot of people
 - 📫 Reach me on IG @thesavagefredl
 
