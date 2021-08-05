@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @thesavagefredl
+- 👋 Hi, I’m Fredl Madatt
 - 👀 I’m interested in web development and information systems
 - 📖 I completed my diploma in Software Development at Nelson Mandela University
 - 🌱 I’m currently looking for a job in Software Development or Data Analytics
